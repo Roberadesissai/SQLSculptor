@@ -1,7 +1,5 @@
 # SQL Exploration Repository
 
-## Repository Name Suggestion: `SQLSculptor`
-
 ## 🚀 Welcome to SQLSculptor! 🚀
 
 Dive into a repository dedicated to SQL (Structured Query Language), exploring various aspects from basic queries to advanced database management and optimization techniques. Whether you're a beginner looking to understand the basics of SQL or an experienced developer seeking advanced implementations, `SQLSculptor` is your go-to repository for all things SQL!
